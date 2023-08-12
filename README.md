@@ -1,5 +1,5 @@
 # KeeperApp
-Has functionality similar to Google Keep, ReactJS based Web App
+Has functionality similar to Google Keep, Built using ReactJS
 
 # To view the app
 https://komalreddy3.github.io/KeeperApp/
